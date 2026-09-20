@@ -47,7 +47,7 @@ I used Chrome DevTools to check the console and found one issue with the search 
 I also used Lighthouse to review accessibility, performance, best practices, and SEO. My accessibility score was originally 95 because some of my text and background colors did not have enough contrast. I looked into better color choices and updated some of my CSS colors to improve the contrast while keeping the same overall color scheme. After making the changes, my accessibility score improved to 100.
 
 My final Lighthouse scores were:
-- Performance: 91
+- Performance: 97
 - Accessibility: 100
 - Best Practices: 100
 - SEO: 90
