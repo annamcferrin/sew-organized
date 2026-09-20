@@ -1,1 +1,59 @@
 
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    background-color: #eadde1;
+}
+.btn-primary {
+    background-color: #7d5361;
+    border-color: #7d5361;
+}
+.btn-primary:hover {
+    background-color: #855e6b;
+    border-color: #855e6b;
+}
+.card {
+    border-color: #eadde1;
+    border-width: 2px;
+}
+h1 {
+    color: #9b6f7d;
+}
+.btn-outline-primary {
+    color: #7d5361;
+    border-color: #7d5361;
+}
+
+.btn-outline-primary:hover {
+    background-color: #7d5361;
+    border-color: #7d5361;
+}
+footer {
+    background-color: #eadde1;
+}
+main h2 {
+    color: #212529;
+}
+.navbar-brand,
+.navbar .nav-link {
+    color: #7d5361;
+}
+.navbar-brand:hover {
+    color: #7d5361;
+}
+footer a {
+    color: #7d5361;
+}
+#user-panel a {
+    color: #7d5361;
+}
