@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Black Formal Dress",
+    "type": "Alteration",
+    "status": "In Progress",
+    "notes": "Hem dress",
+    "finishDate": "2026-09-25",
+    "owner": "user"
+  },
+  {
+    "id": 2,
+    "title": "Floral Summer Skirt",
+    "type": "Sewing Project",
+    "status": "Want to Start",
+    "notes": "Purchase fabric and zipper",
+    "finishDate": "2026-12-10",
+    "owner": "user"
+  },
+  {
+    "id": 3,
+    "title": "Blue Jeans",
+    "type": "Alteration",
+    "status": "Completed",
+    "notes": "Shorten pant legs",
+    "finishDate": "2026-10-15",
+    "owner": "admin"
+  }
+]

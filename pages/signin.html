@@ -26,9 +26,9 @@
 
         <form id="signin-form">
             <div class="mb-3">
-                <label for="email-box" class="form-label">Email</label>
-                <input type="email" class="form-control" id="email-box">
-            </div>
+    <label for="user-box" class="form-label">Username</label>
+    <input type="text" class="form-control" id="user-box" required>
+</div>
 
             <div class="mb-3">
                 <label for="pwd-box" class="form-label">Password</label>
@@ -38,6 +38,7 @@
             <button type="button" class="btn btn-primary" id="signin-btn">
                 Sign In
             </button>
+            <p id="message" class="text-danger mt-3" role="alert"></p>
         </form>
     </main>
     <footer class="text-center py-4">
@@ -54,7 +55,7 @@
 
     <script src="https://code.jquery.com/jquery-4.0.0.min.js"></script>
 
-    <script src="../js/app.js"></script>
+    <script src="../js/signin.js"></script>
 
 </body>
 
